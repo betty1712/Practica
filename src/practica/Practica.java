@@ -17,6 +17,7 @@ public class Practica {
         // TODO code application logic here
         System.out.println("Hola todos");
         System.out.println("hol hola");
+        System.out.println("hola hola");
     }
     
 }
